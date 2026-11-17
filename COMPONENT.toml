@@ -3,7 +3,7 @@ name = "SigmaOS-system-configuration-editor"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "system-configuration-editor component"
+description = "System Configuration Editor"
 upstream = []
 
 [contract]
